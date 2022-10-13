@@ -17,6 +17,15 @@ body {
   width: 350px;
 }
 
+#score {
+  background: #ff0000;
+  position: absolute;
+  width: 100%;
+  color: #FFF;
+  top: 0;
+  left: 0;
+}
+
 .arrows-img {
   width: 150px;
 }
